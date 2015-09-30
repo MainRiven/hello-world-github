@@ -1,2 +1,3 @@
 # hello-world-github
-My first repisotari
+
+Ceci est mon premier dépot GitHub.
